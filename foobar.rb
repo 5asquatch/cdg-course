@@ -1,3 +1,4 @@
+#ГОТОВО
 def foobar (x,y)
     if x == 20
         result = y

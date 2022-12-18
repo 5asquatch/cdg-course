@@ -1,3 +1,4 @@
+#ГОТОВО
 def cser (word)
     if word =~ /cs$/
         puts 2 ** word.length 

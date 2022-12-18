@@ -1,3 +1,4 @@
+#ГОТОВО
 def greetengs (name,age)
     if age >= 18
         print name + "cамое время заняться делом!"
